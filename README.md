@@ -23,7 +23,7 @@ Superstore is seeking to expand and improve its operations. Before making strate
 ---
 ## 🖼️ Final Dashboard Overview
 
-![Superstore Dashboard](assets/Dashboard_Tablaeu_Screenshot.png)
+![Superstore Dashboard](Dashboard_Tablaeu_Screenshot.png)
 
 ---
 ## 📊 Key Insights
